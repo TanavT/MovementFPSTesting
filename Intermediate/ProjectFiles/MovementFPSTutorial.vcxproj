@@ -258,10 +258,10 @@
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
     <None Include="..\..\Config\DefaultInput.ini"/>
-    <ClCompile Include="..\..\Source\MovementFPSTutorial\DecimusCharacterMovementComponent.cpp">
+    <ClCompile Include="..\..\Source\MovementFPSTutorial\MovementFPSTutorialCharacterMovementComponent.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
-    <ClInclude Include="..\..\Source\MovementFPSTutorial\DecimusCharacterMovementComponent.h"/>
+    <ClInclude Include="..\..\Source\MovementFPSTutorial\MovementFPSTutorialCharacterMovementComponent.h" />
     <None Include="..\..\Source\MovementFPSTutorial\MovementFPSTutorial.Build.cs"/>
     <ClCompile Include="..\..\Source\MovementFPSTutorial\MovementFPSTutorial.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>

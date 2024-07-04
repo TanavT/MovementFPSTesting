@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeMovementFPSTutorial_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x71888684,
-				0xCD43926A,
+				0x9EF27B5A,
+				0xE7BFB5A5,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_MovementFPSTutorial.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_MovementFPSTutorial.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MovementFPSTutorial(Z_Construct_UPackage__Script_MovementFPSTutorial, TEXT("/Script/MovementFPSTutorial"), Z_Registration_Info_UPackage__Script_MovementFPSTutorial, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x71888684, 0xCD43926A));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MovementFPSTutorial(Z_Construct_UPackage__Script_MovementFPSTutorial, TEXT("/Script/MovementFPSTutorial"), Z_Registration_Info_UPackage__Script_MovementFPSTutorial, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9EF27B5A, 0xE7BFB5A5));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
